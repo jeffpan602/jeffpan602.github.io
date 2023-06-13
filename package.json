@@ -1,0 +1,25 @@
+{
+  "name": "jeffpan602.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffpan602/jeffpan602.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffpan602/jeffpan602.github.io/issues"
+  },
+  "homepage": "https://github.com/jeffpan602/jeffpan602.github.io#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
